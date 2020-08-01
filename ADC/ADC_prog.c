@@ -5,8 +5,8 @@
  *      Author: Amr Elzawawy
  */
 
-#include "libs/STD_TYPES.h"
-#include "utils/BIT_LIB.h"
+#include "../libs/STD_TYPES.h"
+#include "../utils/BIT_LIB.h"
 #include "ADC_int.h"
 #include "ADC_private.h"
 #include "ADC_config.h"
