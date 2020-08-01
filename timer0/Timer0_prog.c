@@ -4,8 +4,8 @@
  *  Created on: 26 September, 2018
  *      Author: Amr Elzawawy
  */
-#include "libs/STD_TYPES.h"
-#include "utils/BIT_LIB.h"
+#include "../libs/STD_TYPES.h"
+#include "../utils/BIT_LIB.h"
 #include "Timer0_int.h"
 #include "Timer0_config.h"
 #include "Timer0_private.h"
