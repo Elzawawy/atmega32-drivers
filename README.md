@@ -20,5 +20,6 @@ Each driver is encapsualted in a folder, to use any of the drivers you should re
 It's then as easy as just including the `interface.h` file in your work and compiling the driver implementation files with your object file using the compiler. 
 
 ## Contributing 
-If you'd like to contribute in building more drivers for AVR Atmega32 on this repository, feel free to fork and PR you work. Am always open to contributions and growing this work to give back to the community :heart:.
+If you'd like to contribute in building more drivers for AVR Atmega32 on this repository, feel free to fork and PR you work. Am always open to contributions and growing this work to give back to the community.
 
+<h4 align='center'>Made with :heart:</h4>
